@@ -1,0 +1,44 @@
+body {
+    font-family: "Calibri", "Calibri", Georgia;
+}
+
+.header {
+	font-size: 175%;
+	font-weight: bold;
+	text-align: center;
+}
+
+div {
+	font-size: 125%;
+	font-weight: bold;
+	box-sizing: border-box;
+	border: 1px solid black;
+}
+
+.box1 {
+	background: red;
+}
+.underbox1 {
+	
+}
+
+.box2 {
+	background: yellow;
+}
+.underbox2 {
+
+}
+
+.box3 {
+	background: brown;
+}
+.underbox3{
+
+}
+
+p {
+	font-size: 108%;
+	font-weight: 400;
+	border:2px solid black;
+	background: gray;
+}
